@@ -1,4 +1,4 @@
-# Docker Compose Setup for OpenSearch Stack
+# AWS Cloudfront Access Logs to Opensearch
 
 This Docker Compose file sets up an OpenSearch cluster along with Logstash for data processing and OpenSearch Dashboards for visualization.
 
