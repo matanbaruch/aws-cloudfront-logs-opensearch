@@ -16,7 +16,8 @@ This Docker Compose file sets up an OpenSearch cluster along with Logstash for d
     ```
 
 4. Once the services are up and running, you can access OpenSearch Dashboards at `http://localhost:5601`.
-5. Use OpenSearch Dashboards to explore and visualize your data.
+5. In order to search create index prefix for `*`
+6. Use OpenSearch Dashboards to explore and visualize your data.
 
 ## Services
 ### 1. OpenSearch Node
